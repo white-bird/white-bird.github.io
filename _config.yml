@@ -47,7 +47,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: bird
+#disqus_username: bird
 
 # Netease setttings
 netease_comment: false
