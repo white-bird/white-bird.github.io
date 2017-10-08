@@ -4,7 +4,7 @@ title:      "当处理不同类型的问题时，大脑在想什么"
 subtitle:   ""
 date:       2017-10-08
 author:     "Bird"
-header-img: "img/in-post/Y_1/bg.png"
+header-img: "img/in-post/Y_1/bg.jpeg"
 header-mask: 0.3
 catalog:    true
 tags:
