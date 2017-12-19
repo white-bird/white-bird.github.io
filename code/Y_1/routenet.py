@@ -86,7 +86,7 @@ def fit(modellist,modelmeta,X,Y,X_test = None,Y_test = None,ep = 1, mutant = Fal
                 res = modellist[modelseq].predict(feat_np,batch_size=500)
         '''
         Y_test_pred = np.zeros((Y_test.shape[0]))
-        if X_test_feat is not None:
+        if X_test is not None:
             routetest = modelmeta.predict(X_test)
             if log:
                 print routetest[0:10]
